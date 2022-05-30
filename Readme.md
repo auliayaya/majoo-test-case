@@ -17,7 +17,7 @@ I create 3 Endpoint:
   - `/outlet/omzet/:id?start_date=2021-11-01&end_date=2021-11-30&page_size=10&page_number=1`
 
 you can test it on my live API using postman configuration doc that i put on top of this description.
-here is my live API [https://majoo-api.auliaillahi.my.id/api/v1/](https://majoo-api.auliaillahi.my.id/api/v1/)
+here is my live API [https://majoo-api.auliaillahi.my.id/api/v1/checkhealth](https://majoo-api.auliaillahi.my.id/api/v1/checkhealth)
 
 But if you wanna try this repo on your local machine, you can follow the instruction in subcontent getting started
 
